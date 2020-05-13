@@ -3,6 +3,8 @@
 
     <types>
         <members>Citi_Change_Credit_Limit</members>
+        <members>CitiUpdateAddress_Test</members>
+        
         <name>Flow</name>
     </types>
 
